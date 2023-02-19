@@ -1,4 +1,4 @@
-API_KEY= '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'
+API_KEY= 'xxxxx'
 import openai
 import os
 
